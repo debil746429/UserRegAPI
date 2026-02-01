@@ -171,6 +171,7 @@ UserRegAPI/
 ├── .env                     # Environment variables
 ├── requirements.txt         # Python dependencies
 ├── schema.sql              # Database schema
+├── LICENSE.md              # License information
 └── README.md               # This file
 ```
 
