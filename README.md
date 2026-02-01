@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```env
 # Database Configuration
 db_host = localhost
-db_name = your_database_name
+db_name = chat
 db_user = your_database_user
 db_password = your_database_password
 
